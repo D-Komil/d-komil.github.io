@@ -2,15 +2,15 @@
 <html lang="en">
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Your Name — Data Science Portfolio</title>
+  <title>Komil Dobilov — Data Science Portfolio</title>
   <meta name="description" content="Data science & machine learning portfolio: selected projects, skills, and contact." />
-  <meta property="og:title" content="Your Name — Data Science Portfolio" />
+  <meta property="og:title" content="Komil Dobilov — Data Science Portfolio" />
   <meta property="og:description" content="Selected ML projects with metrics and code." />
   <meta property="og:type" content="website" />
   <link rel="stylesheet" href="styles.css" />
   <body>
     <header class="hero">
-      <h1>Your Name</h1>
+      <h1>Komil Dobilov</h1>
       <p>Data Science • Machine Learning • Analytics</p>
       <p class="usp">I turn messy business data into decisions with reproducible ML.</p>
       <nav>
