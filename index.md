@@ -59,7 +59,7 @@
 
       <section id="about">
         <h2>About</h2>
-        <p>Brief, business-focused bio: your background, the problems you solve, and how you work.</p>
+        <p>Entry-level data professional with recent training in Python, SQL, pandas, and scikit-learn and 5+ years of real logistics and customer-facing experience. USP: I can turn messy operational data (ELD, inspections, service logs) into clear actions for non-technical teams. Keywords: data science, Python, SQL, EDA, machine learning, logistics.</p>
       </section>
 
       <section id="contact">
