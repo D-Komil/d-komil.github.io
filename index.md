@@ -26,7 +26,7 @@
 
         <article class="card">
           <h3><a href="https://github.com/YOU/churn-prediction">Churn Prediction</a></h3>
-          <p>Tree-based models + SHAP; targeted offers reduce expected churn. <strong>F1: 0.88</strong>.</p>
+          <p>Tree-based models; targeted offers reduce expected churn. <strong>F1: 0.88</strong>.</p>
           <ul>
             <li>Data: contracts, usage, payments</li>
             <li>Models: LightGBM, logistic regression</li>
@@ -64,12 +64,12 @@
 
       <section id="contact">
         <h2>Contact</h2>
-        <p><a href="mailto:you@example.com">you@example.com</a> • <a href="https://www.linkedin.com/in/you">LinkedIn</a> • <a href="https://github.com/YOURUSERNAME">GitHub</a></p>
+        <p><a href="mailto:tajhope@gmail.com">tajhope@gmail.com</a> • <a href="https://www.linkedin.com/in/ds-komil-dobilov/">LinkedIn</a> • <a href="https://github.com/D-Komil">GitHub</a></p>
       </section>
     </main>
 
     <footer>
-      <small>© <span id="y"></span> Your Name</small>
+      <small>© <span id="y"></span> Komil Dobilov</small>
       <script>document.getElementById('y').textContent=new Date().getFullYear()</script>
     </footer>
   </body>
