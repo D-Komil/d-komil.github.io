@@ -33,7 +33,7 @@
         </article>
 
         <article class="card">
-          <h3><a href="https://github.com/YOU/imdb-sentiment">IMDB Sentiment</a></h3>
+          <h3><a href="https://colab.research.google.com/drive/1Z1CV8Yh0xJUXw9FqDDu1XkQlS3uboMNM?usp=sharing">IMDB Sentiment</a></h3>
           <p>BERT fine-tuning for movie reviews; robust to slang/negations. <strong>F1: 0.90</strong>.</p>
           <ul>
             <li>EDA + error analysis</li>
