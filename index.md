@@ -24,7 +24,7 @@
         <h2>Featured Projects</h2>
 
         <article class="card">
-          <h3><a href="https://github.com/YOU/churn-prediction">Churn Prediction</a></h3>
+          <h3><a href="https://github.com/D-Komil/Churn-Prediction">Churn Prediction</a></h3>
           <p>Tree-based models; targeted offers reduce expected churn. <strong>F1: 0.88</strong>.</p>
           <ul>
             <li>Data: contracts, usage, payments</li>
