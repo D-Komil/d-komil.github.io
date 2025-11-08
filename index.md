@@ -9,7 +9,6 @@
   <link rel="stylesheet" href="styles.css" />
   <body>
     <header class="hero">
-      <h1>Komil Dobilov</h1>
       <p>Data Science • Machine Learning • Analytics</p>
       <p class="usp">I turn messy business data into decisions with reproducible ML.</p>
       <nav>
