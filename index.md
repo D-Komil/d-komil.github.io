@@ -44,7 +44,7 @@
 
         <article class="card">
           <h3><a href="https://github.com/YOU/used-car-prices">Used-Car Price Model</a></h3>
-          <p>Gradient boosting with feature engineering; <strong>RMSE: $X,XXX</strong>.</p>
+          <p>Gradient boosting with feature engineering; <strong>RMSE: $1715.29</strong>.</p>
           <ul>
             <li>Features: age, trim, mileage, region</li>
             <li>Model: LightGBM + cross-validation</li>
